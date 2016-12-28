@@ -1,0 +1,2 @@
+# MindDump
+useful code chunks
